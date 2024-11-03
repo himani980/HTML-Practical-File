@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>
+hyperlinks 
+</title>
+</head>
+<body>
+<h1>Anchor Link Example</h1>
+<a href="#section1">Section 1</a>
+<a href="#section2">Section 2</a>
+<a href="#section3">Section 3</a>
+<a href="#section4">Section 4</a>
+<a href="#section5">Section 5</a>
+<a href="#section6">Section 6</a>
+<section id="section1">
+<h2>Section 1</h2> 
+<p> 
+HTML stands for Hyper Text Markup Language <br>
+ HTML is the standard markup language for creating Web pages <br>
+ HTML describes the structure of a Web page<br>
+ HTML consists of a series of elements <br>
+ HTML elements tell the browser how to display the content <br>
+ HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc. <br>
+</p>
+</section>
+<section id="section2">
+<h2>Section 2</h2>
+<p>
+ All HTML elements can have attributes <br>
+ Attributes provide additional information about elements <br>
+ Attributes are always specified in the start tag <br>
+ Attributes usually come in name/value pairs like: name="value"<br>
+</p>
+</section>
+<section id="section3">
+<h2>Section 3</h2>
+<p>content</p>
+</section>
+<section id="section4">
+<h2>Section 4</h2>
+<p>content</p>
+</section>
+<section id="section5">
+<h2>Section 5</h2>
+<p>content</p>
+</section>
+<section id="section6">
+<h2>Section 6</h2>
+<p>content</p>
+</section>
+</body>
+</html>
