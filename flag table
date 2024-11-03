@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<title> My Webpage </title>
+</head>
+<body>
+<table border="3">
+<tr>
+<th> Country Name </th>
+<th> Flag </th>
+</tr>
+<tr>
+<td><center> India </center></td>
+<td> <img src="C:\Users\LENOVO\Downloads\flag-5443011_1280(1).jpg" alt="image/jpg" height="50" width="60"> </td>
+</tr>
+<tr>
+<td><center> USA </center></td>
+<td> <img src="C:\Users\LENOVO\Downloads\usa-1960922_1280.jpg" alt="image/jpg" height="50" width="60"> </td>
+</tr>
+<tr>
+<td><center> Germany </center></td>
+<td> <img src="C:\Users\LENOVO\Downloads\germany-7895827_1280.png" alt="image/png" height="50" width="60"> </td>
+</tr>
+</table>
+</body>
+</html>
